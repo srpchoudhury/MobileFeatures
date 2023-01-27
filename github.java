@@ -1,4 +1,4 @@
-//project mobile featuress
+//project mobile featuresss
 //sim.java
 public interface SIM{
 	public String sendSMS(String msg,long mobilenumber);
